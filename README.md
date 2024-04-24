@@ -3,6 +3,7 @@
 
 To Build a stopwatch web application, we are using HTML,CSS and JavaScript. By implementing functions for starting, pausing, resetting, restarting the stopwatch as well as tracking and displaying the lap times, users can accurately measures an record time intervals.
 With these functionalities, we are creating an interactive and user-friendly stopwatch web application.
+
 HTML File --> index.html | CSS File --> style.css | Javascript File --> main.js!
 
 ![Screenshot 2024-04-24 174942](https://github.com/priyagrw28/PRODIGY_WD_02/assets/106476984/ff441d7e-315c-4417-99d8-de527eb4c011)
